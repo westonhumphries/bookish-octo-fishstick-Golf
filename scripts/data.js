@@ -1,3 +1,4 @@
+/*
 const golfGames = [
     {
       game: "Group 1 Games",
@@ -43,16 +44,27 @@ const golfGames = [
     }
 
   ];
-  
+  */
 
   const golfGames2= [
     {
       game: "Group 1 Games",
-      authors: [ "Weston1", "Kaibry", "Anna"],
-      links: [ "https://westonhumphries.github.io/laughing-octo-bravo/","https://bcoan2.github.io/scaling-computing-machine-Charlie/", "https://westonhumphries.github.io/fuzzy-giggle-Alpha/"]
+      authors: [ "Aman Nawaria,", "Vikas Nehra,", "William Wiggins"],
+      links: [ "https://amannawaria12.github.io/DeltaLab/","https://vikasnehra1.github.io/CharlieLab/","https://mithrandiryeet.github.io/charlie_spaghett_1/"]
+    },
+    {
+      game: "Group 2 Games",
+      authors: [ "Brody Coan,", " Tram Nguyen,", " William Thompson"],
+      links: [ "https://bcoan2.github.io/scaling-computing-machine-Charlie/","", "https://jacksonthompson1.github.io/jt-lab-delta/"]
+    },
+    {
+      game: "Group 8 Games",
+      authors: [ "Gage Mathis,", " Robert Marcum,"],
+      links: [ "https://gagethekidd.github.io/jerky-chicken-charlie/",""]
     }
+    
   ]
-
+/*
   const golfGames3= [
     {
       author: "weston", 
@@ -61,3 +73,4 @@ const golfGames = [
       
     }
   ]
+  */

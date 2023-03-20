@@ -41,7 +41,7 @@ $(function () {
     <div class="col-sm-5 mx-auto mt-5">
         <div class="card">
           <h2 class="card-title"> ${val.game} </h2>
-          <div class="card-body">${val.authors[0]} ${val.authors[1]} ${val.authors[2]}</div>
+          <div class="card-body"> "Game Authors:" ${val.authors[0]}", " ${val.authors[1]}", " ${val.authors[2]}</div>
           <div class="card-footer">${ link } 
           </div>
         </div>

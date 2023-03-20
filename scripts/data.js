@@ -58,7 +58,7 @@ const golfGames = [
     },
     {
       game: "Group 8 Games",
-      authors: [ "Gage Mathis", " Robert Marcum"],
+      authors: [ "Gage Mathis", " Robert Marcum", ""],
       links: [ "https://gagethekidd.github.io/jerky-chicken-charlie/",""]
     }
     

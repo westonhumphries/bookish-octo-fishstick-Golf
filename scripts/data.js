@@ -16,12 +16,12 @@
       links: [ "https://gagethekidd.github.io/jerky-chicken-charlie/","https://marcum-lab-delta.catharsis11867.repl.co/"]
     },
     {
-      game: "Over flow Group 1 Games",
+      game: "Overflow Group 1 Games",
       authors: [ "Jason Conkle", "Aaron Phenicie", "Connor Brown"],
       links: [ "https://jconkle5.github.io/loose-juice-charlie/","https://phenicieaaron.github.io/upgraded-tribble-echo/", "https://connorlbrown.github.io/bingbong-charlie/"]
     },
     {
-      game: "Over flow Group 2 Games",
+      game: "Overflow Group 2 Games",
       authors: [ "Junnosuke Noiri", "Vanessa Beard", ""],
       links: [ "https://junnoiri.github.io/cis-376-CHARLIE-lab/", "https://poki.com/en/g/cow-bay"]
     }

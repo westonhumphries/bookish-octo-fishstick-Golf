@@ -2,6 +2,7 @@
 
 body {
   background-image: url('https://wallpaperboat.com/wp-content/uploads/2019/06/arcade-11.jpg');
+  background-position: center center;
 }
 div {
   font-family: "Nunito", sans-serif;
@@ -22,6 +23,6 @@ div {
   width: 100%;
 /* Height of the footer*/
   height: 40px;
-  background: lightgrey;
+  background: lime;
   text-align: center;
 }

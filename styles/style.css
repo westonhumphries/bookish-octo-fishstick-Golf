@@ -21,6 +21,7 @@ div {
   left: 0;
   bottom: 0;
   width: 100%;
+  text-color: black;
 /* Height of the footer*/
   height: 40px;
   background: lime;

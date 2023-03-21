@@ -11,7 +11,7 @@ $(function () {
 
     let link = ''; 
     $.each(val.links, (i) => {
-      link += `<a target="_blank" href=" ${ val.links[i] } " class="btn btn-primary"> ${ val.authors[i]} </a>`
+      link += `<a target="_blank" href=" ${ val.links[i] } "class="btn btn-primary"> ${ val.authors[i]} </a>`
       // link += k[i] ;
 
     })
@@ -21,7 +21,7 @@ $(function () {
         <div class="card">
           <h2 class="card-title"> ${val.game} </h2>
           <div class="card-body"> Game Author: ${val.authors[0]}, ${val.authors[1]}, ${val.authors[2]}</div>
-          <div class="card-footer">${ link } 
+          <div class="card-footer"> ${ link } 
           </div>
         </div>
       </div>

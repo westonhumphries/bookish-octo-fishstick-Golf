@@ -13,3 +13,15 @@ div {
   font-weight: bold;
   text-align: center;
 }
+
+#footer {
+  position: fixed;
+  padding: 10px 10px 0px 10px;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+/* Height of the footer*/
+  height: 40px;
+  background: lightgrey;
+  text-align: center;
+}

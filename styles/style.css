@@ -15,6 +15,11 @@ div {
   text-align: center;
 }
 
+
+
+
+
+
 .btn{
   margin-right: 20px;  
 }
@@ -50,13 +55,13 @@ div {
 
 #footer {
   position: fixed;
-  padding: 10px 10px 0px 10px;
+
   left: 0;
   bottom: 0;
   width: 100%;
-  text-color: black;
+  caret-color: black;
 /* Height of the footer*/
-  height: 40px;
+
   background: lime;
   text-align: center;
 }
